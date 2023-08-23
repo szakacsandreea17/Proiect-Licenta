@@ -1,0 +1,93 @@
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\SzakacsAndreea_2023_Licenta.exe.config
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\SzakacsAndreea_2023_Licenta.exe
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\SzakacsAndreea_2023_Licenta.pdb
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.csproj.AssemblyReference.cache
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\MainWindow.g.cs
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\App.g.cs
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta_MarkupCompile.cache
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta_MarkupCompile.lref
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\App.baml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\MainWindow.baml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.g.resources
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.Properties.Resources.resources
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.csproj.GenerateResource.cache
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.csproj.CoreCompileInputs.cache
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.exe
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.pdb
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\MaterialDesignColors.dll
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\HomeWindow.g.cs
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\HomeWindow.baml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\Pregatire licenta\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.csproj.CopyComplete
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\SzakacsAndreea_2023_Licenta.exe.config
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\SzakacsAndreea_2023_Licenta.exe
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\SzakacsAndreea_2023_Licenta.pdb
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\Dapper.dll
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\MaterialDesignColors.dll
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\System.Security.Permissions.dll
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\Dapper.xml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\System.Security.Permissions.xml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.csproj.AssemblyReference.cache
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Styles\ButtonStyles.baml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Styles\HomeWindowColors.baml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Detalii_Client.g.cs
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\HomeWindow.g.cs
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\MainWindow.g.cs
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Pages\Pagina_Clienti.g.cs
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Pages\Pagina_Comenzi.g.cs
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Pages\Pagina_Principala.g.cs
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Pages\Pagina_Producatori.g.cs
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Pages\Pagina_Produse.g.cs
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\App.g.cs
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta_Content.g.cs
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta_MarkupCompile.cache
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta_MarkupCompile.lref
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\App.baml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Detalii_Client.baml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\HomeWindow.baml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\MainWindow.baml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Pages\Pagina_Clienti.baml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Pages\Pagina_Comenzi.baml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Pages\Pagina_Principala.baml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Pages\Pagina_Producatori.baml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Pages\Pagina_Produse.baml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.g.resources
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.Properties.Resources.resources
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.csproj.GenerateResource.cache
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.csproj.CoreCompileInputs.cache
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.csproj.CopyComplete
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.exe
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\SzakacsAndreea_2023_Licenta.pdb
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\LiveCharts.dll
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\LiveCharts.pdb
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\LiveCharts.xml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Pages\Pagina_Distribuitori.g.cs
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Pages\Pagina_Distribuitori.baml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Pages\Pagina_Sortimente.g.cs
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\Pages\Pagina_Sortimente.baml
+C:\Users\Andreea\Desktop\facultate\ANUL 3\LICENTA\SzakacsAndreea_2023_Licenta_CS\SzakacsAndreea_2023_Licenta\obj\Debug\GeneratedInternalTypeHelper.g.cs

@@ -1,0 +1,102 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SzakacsAndreea_2023_Licenta.Pages"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:DataLayer="clr-namespace:SzakacsAndreea_2023_Licenta.DataLayer" x:Class="SzakacsAndreea_2023_Licenta.Pages.Pagina_Clienti"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="1300"
+      Title="Pagina_Clienti" Loaded="Page_Loaded">
+
+    <Page.Resources>
+        <CollectionViewSource x:Key="clientViewSource" d:DesignSource="{d:DesignInstance {x:Type DataLayer:Client}}"/>
+      
+        
+            <Style BasedOn="{StaticResource {x:Type DataGridColumnHeader}}" TargetType="{x:Type DataGridColumnHeader}">
+            <Setter Property="Background" Value="#ffccd4" />
+                <Setter Property="Foreground" Value="Black"/>
+            </Style>
+       
+
+    </Page.Resources>
+
+    <Grid  DataContext="{StaticResource clientViewSource}" Background="White">
+        
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+        
+        <Label Grid.Row="0" x:Name="labelTitle" Content="CLIENȚI"
+               FontSize="18" FontWeight="DemiBold" Foreground="BLACK"
+                Background="#e59a9a"
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+
+        <StackPanel Orientation="Horizontal" Background="ivory" VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="1">
+            <StackPanel.Resources>
+                <Style TargetType="Button">
+                    <Setter Property="Width" Value="80"/>
+                    <Setter Property="Margin" Value="6,4"/>
+                    <Setter Property="BorderThickness" Value="0"/>
+                    <Setter Property="Background" Value="#EEEEEE"/>
+                </Style>
+            </StackPanel.Resources>
+            
+
+            <Button x:Name="buttonEditData" Click="buttonEditData_Click" Width="80">
+                <StackPanel Orientation="Horizontal" >
+                    <Image Source="/Images/edit.png" Width="24"/>
+                    <TextBlock Text="Editare" VerticalAlignment="Center" Margin="4"/>
+                </StackPanel>
+            </Button>
+            <Button x:Name="buttonAddData" Click="buttonAddData_Click" Width="85">
+                <StackPanel Orientation="Horizontal" >
+                    <Image Source="/Images/add.png" Width="24"/>
+                    <TextBlock Text="Adaugare" VerticalAlignment="Center" Margin="4"/>
+                </StackPanel>
+            </Button>
+            <Button x:Name="buttonDeleteData" Click="buttonDeleteData_Click" Width="80">
+                <StackPanel Orientation="Horizontal" >
+                    <Image Source="/Images/delete.png" Width="24"/>
+                    <TextBlock Text="Stergere" VerticalAlignment="Center" Margin="4"/>
+                </StackPanel>
+            </Button>
+
+            <ComboBox x:Name="clientiComboBox" SelectionChanged="clientiComboBox_SelectionChanged"  SelectedIndex="0" Margin="50 5 5 5" Background="LightGray" Width="200" >
+                <ComboBoxItem Name="Filtare" Content="Filtare"/>
+                <ComboBoxItem Name="Nume" Content="Nume"/>
+                <ComboBoxItem Name="Judet" Content="Judet"/>
+            </ComboBox>
+            <TextBox x:Name="SearchBox"  Background="LightGray"  
+                     TextChanged="SearchBox_TextChanged"  Width="250" Height="40" VerticalContentAlignment="Center" 
+                     HorizontalAlignment="Left" />
+                    
+        </StackPanel>
+
+
+        <Grid Grid.Row="2">
+
+            <DataGrid x:Name="clientDataGrid"  RowDetailsVisibilityMode="VisibleWhenSelected" 
+                      AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" 
+                   Margin="10,10,10,10" SelectionUnit="FullRow"   >
+
+                <DataGrid.Columns>
+
+                    <DataGridTextColumn   x:Name="codClientColumn" Binding="{Binding CodClient}" Header="Cod Client" Width="auto" />
+                    <DataGridTextColumn   x:Name="numeColumn" Binding="{Binding Nume}" Header="Nume" Width="auto" />
+                    <DataGridTextColumn   x:Name="persoanaContactColumn" Binding="{Binding PersoanaContact}" Header="Persoana Contact" Width="auto"/>
+                    <DataGridTextColumn   x:Name="telefonColumn" Binding="{Binding Telefon}" Header="Telefon" Width="auto"/>
+                    <DataGridTextColumn    x:Name="adresaColumn" Binding="{Binding Adresa}" Header="Adresa" Width="auto"/>
+                    <DataGridTextColumn  x:Name="orasColumn" Binding="{Binding Oras}" Header="Oras" Width="auto"/>
+                    <DataGridTextColumn   x:Name="judetColumn" Binding="{Binding Judet}" Header="Judet" Width="auto"/>
+
+                </DataGrid.Columns>
+            </DataGrid>
+
+        </Grid>
+
+    </Grid>
+</Page>

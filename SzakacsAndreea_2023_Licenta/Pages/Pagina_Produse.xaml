@@ -1,0 +1,211 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:local="clr-namespace:SzakacsAndreea_2023_Licenta.Pages"
+      xmlns:DataLayer="clr-namespace:SzakacsAndreea_2023_Licenta.DataLayer"
+    xmlns:Converters="clr-namespace:SzakacsAndreea_2023_Licenta.Converters"
+    x:Class="SzakacsAndreea_2023_Licenta.Pages.Pagina_Produse"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="1300"
+      Title="Pagina_Produse"
+      Loaded="Page_Loaded">
+
+    <Page.Resources>
+
+        <CollectionViewSource x:Key="produsViewSource" d:DesignSource="{d:DesignInstance {x:Type DataLayer:Produs}}"/>
+        <Style BasedOn="{StaticResource {x:Type DataGridColumnHeader}}" TargetType="{x:Type DataGridColumnHeader}">
+            <Setter Property="Background" Value="#ffccd4" />
+            <Setter Property="Foreground" Value="Black"/>
+        </Style>
+        <Converters:ImageConverter x:Key="ImageConverter"/>
+    </Page.Resources>
+
+    <Grid Background="white" DataContext="{StaticResource produsViewSource}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="220"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" x:Name="labelTitle" Content="PRODUSE"
+               FontSize="18" FontWeight="DemiBold" Foreground="BLACK"
+                Background="#e59a9a" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Grid Grid.Row="1" Margin="5 5 5 5" Background="LightGray">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="400"/>
+                <ColumnDefinition Width="400"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0" Margin="10,10,10,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+
+                </Grid.RowDefinitions>
+                <Grid.Resources>
+                    <Style TargetType="Label">
+                        <Setter Property="Margin" Value="3"/>
+                        <Setter Property="HorizontalAlignment" Value="Left"/>
+                        <Setter Property="VerticalAlignment" Value="Center"/>
+                        <Setter Property="FontSize" Value="16"/>
+                    </Style>
+                    <Style TargetType="TextBox">
+                        <Setter Property="Margin" Value="3"/>
+                        <Setter Property="Width" Value="250"/>
+                        <Setter Property="HorizontalAlignment" Value="Left"/>
+                        <Setter Property="VerticalAlignment" Value="Center"/>
+                        <Setter Property="Height" Value="25"/>
+                    </Style>
+                </Grid.Resources>
+
+                <Label Content="Cod Produs:" Grid.Row="0" Grid.Column="0"/>
+                <TextBox x:Name="codprodusTextBox" Grid.Column="1" Text="{Binding CodProdus}" Width="220" />
+
+
+                <Label Content="Denumire produs:" Grid.Row="1" Grid.Column="0"/>
+                <TextBox x:Name="denumireprodusTextBox" Grid.Row="1" Grid.Column="1" Text="{Binding DenumireProdus}" Width="220" />
+
+                <Label Content="Cod Sortiment:" Grid.Row="3" Grid.Column="0"/>
+                <TextBox x:Name="codsortimentTextBox" Grid.Row="3" Grid.Column="1" Text="{Binding CodSortiment}" Width="220" />
+                
+                <Label Content="Sortiment:" Grid.Row="4" Grid.Column="0"/>
+                <ComboBox x:Name="sortimentTextBox" Grid.Row="4" Grid.Column="1" Text="{Binding Sortiment}" Width="220">
+                    <ComboBoxItem Content="Cafea Arabica"/>
+                    <ComboBoxItem Content="Cafea Robusta"/>
+                    <ComboBoxItem Content="Cafea Bourbon"/>
+                    <ComboBoxItem Content="Cafea Supremo"/>
+                    <ComboBoxItem Content="Cafea Juan Valdez"/>
+                    <ComboBoxItem Content="Cafea Excelso"/>
+                    <ComboBoxItem Content="Cafea Sidamo"/>
+                    <ComboBoxItem Content="Cafea Monsooned Malabar"/>
+                    <ComboBoxItem Content="Cafea Chiapas"/>
+                    <ComboBoxItem Content="Cafea Sumatra"/>
+                    <ComboBoxItem Content="Cafea Yirgacheffee"/>
+                </ComboBox>
+            </Grid>
+            
+            <Grid Grid.Column="1" Margin="10 10 10 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    
+
+                </Grid.RowDefinitions>
+                <Grid.Resources>
+                    <Style TargetType="Label">
+                        <Setter Property="Margin" Value="3"/>
+                        <Setter Property="HorizontalAlignment" Value="Left"/>
+                        <Setter Property="VerticalAlignment" Value="Center"/>
+                        <Setter Property="FontSize" Value="16"/>
+                    </Style>
+                    <Style TargetType="TextBox">
+                        <Setter Property="Margin" Value="3"/>
+                        <Setter Property="Width" Value="250"/>
+                        <Setter Property="HorizontalAlignment" Value="Left"/>
+                        <Setter Property="VerticalAlignment" Value="Center"/>
+                        <Setter Property="Height" Value="25"/>
+                    </Style>
+                </Grid.Resources>
+                
+                <Label Content="Cantitate:" Grid.Row="0" Grid.Column="0"/>
+                <TextBox x:Name="cantitateTextBox" Grid.Row="0" Grid.Column="1" Text="{Binding Cantitate}" Width="220" />
+
+                <Label Content="Pret:" Grid.Row="1" Grid.Column="0"/>
+                <TextBox x:Name="pretTextBox" Grid.Row="1" Grid.Column="1" Text="{Binding Pret}" Width="220" />
+
+                <Label Content="Descriere:" Grid.Row="2" Grid.Column="0"/>
+                <TextBox x:Name="descriereTextBox" Grid.Row="2" Grid.Column="1" Height="120" Text="{Binding Descriere}" Width="220"  TextWrapping="Wrap"/>
+            </Grid>
+            <Grid Grid.Column="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="250"/>
+                    <ColumnDefinition Width="auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                 <Border Margin="40 5 5 5" Background="white" Width="150" BorderBrush="LightGray" BorderThickness="1" >
+                    <Image x:Name="Imagineprodus" Source="{Binding Imagine, Converter={StaticResource ImageConverter}}" />
+                 </Border>
+                </Grid>
+                <Grid Grid.Column="1" Margin="0 0 10 0">
+
+                        <Button x:Name="buttonLoadFromFile" Content=" Incarca o imagine " Width="150"    Click="buttonLoadFromFile_Click" />
+                        
+                </Grid>
+            </Grid>
+        </Grid>
+
+        
+        <Grid Grid.Row="2" Margin="0 0 10 0">
+        <StackPanel  Orientation="Horizontal">
+            <Button x:Name="btnAdaugaProdus" Height="30" Width="150" Background="White" 
+                    BorderBrush="Black" Foreground="Black" Content="Adaugă Produs" 
+                    VerticalAlignment="Bottom" Margin="10" HorizontalAlignment="Right" 
+                    Click="btnAdaugaProdus_Click"/>
+            
+            <Button x:Name="btnStergeProdus" Height="30" Width="85" Background="White" 
+                    BorderBrush="Black" Foreground="Black" Content="Sterge" 
+                    VerticalAlignment="Bottom" Margin="10" HorizontalAlignment="Right" 
+                    Click="btnStergeProdus_Click"/>
+
+            <Button x:Name="btnEditareProdus" Height="30" Width="85" Background="White" 
+                    BorderBrush="Black" Foreground="Black" Content="Editare" 
+                    VerticalAlignment="Bottom" Margin="10" HorizontalAlignment="Right" 
+                    Click="btnEditareProdus_Click"/>
+
+            <Button x:Name="btnAnulareProdus" Height="30" Width="85" Background="White" 
+                    BorderBrush="Black" Foreground="Black" Content="Anulare" 
+                    VerticalAlignment="Bottom" Margin="10" HorizontalAlignment="Right" 
+                    Click="btnAnulareProdus_Click"/>
+
+
+                
+                <Label Content="Cauta dupa denumire:" Foreground="Black" FontSize="15" HorizontalContentAlignment="Center"
+                       VerticalContentAlignment="Center" Margin="10"/>
+                <TextBox Height="30"  Margin="5 5 0 0" materialDesign:HintAssist.Hint="CAUTA"
+                     Name="txtNameToSearch" HorizontalAlignment="Center" Width="174"
+                     TextChanged="txtNameToSearch_TextChanged"/>
+            
+
+        </StackPanel>
+        </Grid>
+        <Grid Grid.Row="3"  Margin="10 10 10 10" >
+            <DataGrid Background="White"  x:Name="produsDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True"
+                  ItemsSource="{Binding}" RowDetailsVisibilityMode="VisibleWhenSelected" 
+                  SelectionChanged="produsDataGrid_SelectionChanged">
+                <DataGrid.Columns>
+                    <DataGridTextColumn x:Name="codProdusColumn" Binding="{Binding CodProdus}" Header="Cod Produs" Width="Auto"/>
+                    <DataGridTemplateColumn x:Name="photoColumn" Header="Imagine" Width="80" MinWidth="48">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding Imagine, Converter={StaticResource ImageConverter}}"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTextColumn x:Name="codsortimentColumn" Binding="{Binding CodSortiment}" Header="CodSortiment" Width="Auto"/>
+                    <DataGridTextColumn x:Name="sortimentColumn" Binding="{Binding Sortiment}" Header="Sortiment" Width="Auto"/>
+                    <DataGridTextColumn x:Name="denumireColumn" Binding="{Binding DenumireProdus}" Header="Denumire Produs" Width="Auto"/>
+                    <DataGridTextColumn x:Name="cantitateColumn" Binding="{Binding Cantitate}" Header="Cantitate" Width="Auto"/>
+                    <DataGridTextColumn x:Name="pretColumn" Binding="{Binding Pret}" Header="Pret" Width="Auto"/>
+                    <DataGridTextColumn x:Name="descriereColumn" Binding="{Binding Descriere}" Header="Descriere" Width="Auto"/>
+                    
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Grid>
+</Page>
